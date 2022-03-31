@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cat-photo-maker/static/css/main.5616d087.css",
+    "main.js": "/cat-photo-maker/static/js/main.5938a2ab.js",
+    "static/js/787.6124686d.chunk.js": "/cat-photo-maker/static/js/787.6124686d.chunk.js",
+    "static/media/logo.svg": "/cat-photo-maker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cat-photo-maker/index.html",
+    "main.5616d087.css.map": "/cat-photo-maker/static/css/main.5616d087.css.map",
+    "main.5938a2ab.js.map": "/cat-photo-maker/static/js/main.5938a2ab.js.map",
+    "787.6124686d.chunk.js.map": "/cat-photo-maker/static/js/787.6124686d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5616d087.css",
+    "static/js/main.5938a2ab.js"
+  ]
+}
